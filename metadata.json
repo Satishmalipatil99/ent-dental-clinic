@@ -1,0 +1,6 @@
+{
+  "name": "AuraCare ENT & Dental Specialists",
+  "description": "Premium healthcare clinic offering specialized ENT (Ear, Nose, Throat) and advanced Dental care with online appointment booking, doctor directory, and clinic management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,22 @@
+{
+  "appointments": [
+    {
+      "patientName": "Aditya Nair",
+      "mobileNumber": "9876543210",
+      "department": "ENT",
+      "doctorId": "doc-ent-01",
+      "doctorName": "Dr. Rajeshwari Rao",
+      "preferredDate": "2026-11-09",
+      "preferredTimeSlot": "10:00 AM - 11:00 AM",
+      "consent": true,
+      "id": "appt-1794050983948",
+      "referenceNumber": "AC-2026-9488",
+      "status": "Pending",
+      "createdAt": "2026-11-07T11:29:43.948Z",
+      "updatedAt": "2026-11-07T11:29:43.948Z"
+    }
+  ],
+  "doctors": [],
+  "services": [],
+  "settings": {}
+}
